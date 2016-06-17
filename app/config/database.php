@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'smscaves',
-			'username'  => 'root',
-			'password'  => '',
+			'host'      => '45.55.167.84',
+			'database'  => 'smscaving2580',
+			'username'  => 'forge',
+			'password'  => 'MC51PIDKeFKwflk5WiIc',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
