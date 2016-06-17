@@ -12,7 +12,7 @@
 </form>
 <?php
 //
-//echo public_path().' hi';
+echo public_path().' hi';
 ?>
 <script>
 
