@@ -22,7 +22,7 @@ class HomeController extends BaseController {
 
 	public function post_upload()
 	{
-
+DB::connection()->disableQueryLog();
 		$input = Input::all();
 		$rules = array(
 			'file' => 'mimes:csv,xlsx,xls',
